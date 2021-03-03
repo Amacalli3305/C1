@@ -1,4 +1,6 @@
 
+#Clase 1: Profesor.
+#03/03/21
 import pandas as pd
 import numpy as np
 import matplotlib as mpl
@@ -31,3 +33,4 @@ plt.figure()
 plt.hist(x, bins = 100)
 plt.title(x_str)
 plt.show
+//
